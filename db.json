@@ -1,0 +1,97 @@
+{
+  "Login": [
+    {
+      "EmailId": "Suma123@gmail.com",
+      "Password": "Suma@123",
+      "Role": "student"
+    },
+    {
+      "EmailId": "Sindhu123@gmail.com",
+      "Password": "Sindhu@123",
+      "Role": "admin"
+    }
+  ],
+  "Students": [
+    {
+      "id": 1,
+      "fistname": "Sumalatha",
+      "lastname": "akkalareddy",
+      "password": "Suma@123",
+      "conformpassword": "Suma@123",
+      "role": "student"
+    },
+    {
+      "firstname": "Bujji",
+      "lastname": "Kasa",
+      "password": "Suma@123",
+      "conformpassword": "Suma@123",
+      "role": "student",
+      "id": 2
+    },
+    {
+      "firstname": "Suma",
+      "lastname": "latha",
+      "password": "Suma@123",
+      "conformpassword": "Suma@123",
+      "emailid": "Suma@123",
+      "role": "student",
+      "id": 3
+    },
+    {
+      "firstname": "Bujji",
+      "lastname": "gudure",
+      "password": "Bujji@123",
+      "conformpassword": "Bujji@123",
+      "emailid": "Bujji123@gmail.com",
+      "role": "student",
+      "id": 4
+    },
+    {
+      "name": "sreeja",
+      "class": "9",
+      "id": 5
+    },
+    {
+      "name": "sreeja",
+      "class": "3",
+      "id": 6
+    },
+    {
+      "name": "pooja",
+      "class": "7",
+      "id": 7
+    }
+  ],
+  "student": [
+    {
+      "id": 1,
+      "name": "Sumalatha",
+      "class": "6"
+    },
+    {
+      "id": 2,
+      "name": "Bujji",
+      "class": "7"
+    },
+    {
+      "id": 3,
+      "name": "Suma",
+      "class": "8"
+    },
+    {
+      "name": "pooja",
+      "class": "8",
+      "id": 4
+    },
+    {
+      "name": "pooja",
+      "class": "6",
+      "id": 5
+    },
+    {
+      "name": "indhu",
+      "class": "9",
+      "id": 6
+    }
+  ]
+}
